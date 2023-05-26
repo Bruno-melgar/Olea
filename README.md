@@ -1,7 +1,7 @@
 ### Document:
 - **Title of the dataset:** Olea
 - **Data underlying publication:** <br/>
-Olive pomace phytochemicals: Maximizing yield through ultrasound and microwave-assisted extractions and predictions  using a combination of RSM and ANN modelling
+Response Surface Methodology and Artificial Neural Network Modeling as Predictive Tools for Phenolic Compounds Recovery from Olive Pomace
 ---
 
 ### Creators:
